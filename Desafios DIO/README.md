@@ -1,14 +1,12 @@
-[TOC]
-
 # Sobre
 
 Irei organizar aqui um índice para os desafios com os quais me deparei enquanto exploro os cursos e bootcamps da Digital Innovation One.
 
 ## Primeiros Passos em Java
 
-- Domingo de Manhã¹
-- A Resposta de Theon¹
-- Divisores I¹
+- [Domingo de Manhã](https://github.com/caiohscruz/DIO-everis-Desafio-PrimeirosPassosJava)¹
+- [A Resposta de Theon](https://github.com/caiohscruz/DIO-everis-Desafio-PrimeirosPassosJava)¹
+- [Divisores I](https://github.com/caiohscruz/DIO-everis-Desafio-PrimeirosPassosJava)¹
 
 ## Desafios Matemáticos em Java
 
