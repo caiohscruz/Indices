@@ -16,9 +16,9 @@ Irei organizar aqui um índice para os desafios com os quais me deparei enquanto
 
 ## Desafios Matemáticos em Kotlin
 
-- Análise de Números²
-- Consumo Médio do Automóvel²
-- Coxinha do Bueno²
+- [Análise de Números](https://github.com/caiohscruz/DIO-BootcampInterAndroidDeveloper-DesafiosMatematicos)²
+- [Consumo Médio do Automóvel](https://github.com/caiohscruz/DIO-BootcampInterAndroidDeveloper-DesafiosMatematicos)²
+- [Coxinha do Bueno](https://github.com/caiohscruz/DIO-BootcampInterAndroidDeveloper-DesafiosMatematicos)²
 
 ### Referências
 
