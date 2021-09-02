@@ -11,5 +11,6 @@ A proposta deste projeto era replicar a aparência e os comportamentos da calcul
 
 - [RocketQ](https://github.com/caiohscruz/RocketQ) **[HTML|CSS|JavaScript|NodeJS|EJS|Express|SQLite]**
 A proposta deste projeto era criar uma plataforma onde usuários poderiam criar uma sala com senha para gerenciamento, poderiam acessar salas quaisquer e registrar perguntas, e aquele de posse da senha da sala pode alterar o estado das perguntas registradas.
-- [Perguntas e Respostas](https://github.com/caiohscruz/Perguntas-e-Respostas) **[HTML|CSS|Bootstrap|JavaScript|NodeJS|EJS|Express|MySQL]**
+- [Perguntas e Respostas](https://github.com/caiohscruz/Perguntas-e-Respostas) **[HTML|CSS|Bootstrap|JavaScript|NodeJS|EJS|Express|MySQL|Sequelize|Dotenv]** 
+A proposta era criar uma plataforma de perguntas e respostas. Apesar da proposta não muito diferente do projeto anterior, as abordagens de desenvolvimento divergiram bastante em alguns pontos, tornando a experiência muito proveitosa.
 
