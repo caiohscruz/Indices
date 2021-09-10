@@ -18,4 +18,4 @@ A proposta era criar uma plataforma de perguntas e respostas. Apesar da proposta
 - [GuiaPress](https://github.com/caiohscruz/GuiaPress)
 **[HTML|CSS|Bootstrap|JavaScript|NodeJS|EJS|Express|MySQL|Sequelize|Dotenv|TinyMCE|bcryptjs|slugify|express-session]**
 A proposta era desenvolver um protótipo de blog, onde um usuário qualquer, não logado, pode consultar os artigos publicados, filtrados ou não por categoria. Caso o usuário tenha um cadastro, ele pode, em sua área restrita, criar, editar e deletar artigos e categorias. 
-
+- [excelToHtmlOrPdf](https://github.com/caiohscruz/excelToHtmlOrPdf) **[Javascript|NodeJS|HTML-PDF|FS|CSV]** A proposta deste projeto foi desenvolver um aplicativo capaz de gerar uma página html ou um pdf com uma tabela correspondente ao conteúdo de um arquivo de extensão CSV. [Deixo aqui](https://youtu.be/4H-yR07vUJ8) um link para um vídeo onde falo um pouco sobre o projeto.
