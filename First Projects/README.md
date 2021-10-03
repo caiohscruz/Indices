@@ -19,3 +19,15 @@ A proposta era criar uma plataforma de perguntas e respostas. Apesar da proposta
 **[HTML|CSS|Bootstrap|JavaScript|NodeJS|EJS|Express|MySQL|Sequelize|Dotenv|TinyMCE|bcryptjs|slugify|express-session]**
 A proposta era desenvolver um protótipo de blog, onde um usuário qualquer, não logado, pode consultar os artigos publicados, filtrados ou não por categoria. Caso o usuário tenha um cadastro, ele pode, em sua área restrita, criar, editar e deletar artigos e categorias. 
 - [excelToHtmlOrPdf](https://github.com/caiohscruz/excelToHtmlOrPdf) **[Javascript|NodeJS|HTML-PDF|FS|CSV]** A proposta deste projeto foi desenvolver um aplicativo capaz de gerar uma página html ou um pdf com uma tabela correspondente ao conteúdo de um arquivo de extensão CSV. [Deixo aqui](https://youtu.be/4H-yR07vUJ8) um link para um vídeo onde falo um pouco sobre o projeto.
+- [MyFirstRESTAPI](https://github.com/caiohscruz/MyFirstRESTAPI)
+**[JavaScript|NodeJS|EJS|Axios|JWT|Cors|dotenv|Sequelize|Mysql2|Express]**
+A proposta deste projeto foi desenvolver uma API REST bem simples para começar a se familiarizar com webservices e com a arquitetura REST. Essa API será consumida por um outro projeto, MyFirstRESTAPIConsumer. Foi desenvolvida também a autenticação de clientes com JWT, dessa forma, a API não irá tratar solicitações de clientes que não possuam um token válido. Em resposta a uma requisição de autenticação bem sucessida, a API fornece ao cliente um token que fica salvo no navegador, no localStorage, o qual tem uma válidade, exigindo autenticações com alguma regularidade.
+- [MyFirstRESTAPIConsumer](https://github.com/caiohscruz/MyFirstRESTAPIConsumer)
+**[JavaScript|NodeJS|EJS|dotenv|Express]**
+A proposta deste projeto foi desenvolver uma aplicação simples com um CRUD completo que consumisse uma API REST, que no caso foi desenvolvida em outro projeto, MyFirstRESTAPI, e que lidasse com autenticação de cliente com JWT. 
+
+## AJAX/PHP
+
+- [landing-page-test](https://github.com/caiohscruz/landing-page-test)
+**[HTML|CSS|Bootstrap|Javascript|AJAX|PHP|MySQL]**
+A proposta foi desenvolver uma landing page que permitisse o cadastro de e-mails. Os e-mails deveriam ser validados e persistidos em um banco de dados com AJAX e PHP. Esse projeto foi um desafio técnico proposto em um processo seletivo.
