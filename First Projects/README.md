@@ -25,6 +25,20 @@ A proposta deste projeto foi desenvolver uma API REST bem simples para começar 
 - [MyFirstRESTAPIConsumer](https://github.com/caiohscruz/MyFirstRESTAPIConsumer)
 **[JavaScript|NodeJS|EJS|dotenv|Express]**
 A proposta deste projeto foi desenvolver uma aplicação simples com um CRUD completo que consumisse uma API REST, que no caso foi desenvolvida em outro projeto, MyFirstRESTAPI, e que lidasse com autenticação de cliente com JWT. 
+- [pokedex-vue-formacao-nodejs](https://github.com/caiohscruz/pokedex-vue-formacao-nodejs)
+**[HTML|CSS|Bulma|JavaScript|VueJS|NodeJS|Express|Axios|Serve-Static]**
+Uma pokédex simples desenvolvida com VueJS, os dados dos pokémons são obtidos via requisição para uma API REST [PokéApi](https://pokeapi.co/). Realizei o deploy da aplicação na Heroku, confira: [pokedex (vue-poke-api.herokuapp.com)](https://vue-poke-api.herokuapp.com/)
+- [api-rest-users-knex](https://github.com/caiohscruz/api-rest-users-knex)
+**[NodeJS|JavaScript|Express|jsonwebtoken (JWT)|Knex|NodeMailer|mysql2|cors|bcrypt|uuid|Validator]**
+Trata-se de uma API REST com NodeJS para gerenciamento de usuários que utiliza, dentre outras coisas, o querybuilder 'knex' e o 'nodemail' para envio de e-mails. Gravei um [vídeo](https://youtu.be/FB5wtnTqQqM), mas devo avisar que ele não mais reflete o estado atual do projeto, pois comecei um [outro projeto](https://github.com/caiohscruz/formacao-node-vue-users) depois que tratava de desenvolver um Front que consumisse desta API, e acabei tendo que alterar algumas coisas e implementar outras.
+- [formacao-node-vue-users](https://github.com/caiohscruz/formacao-node-vue-users)
+**[VueJS|JavaScript|axios|Bulma|vue-router]**
+Trata-se de uma aplicação em VueJS para gerenciamento de usuários que consome de uma API desenvolvida em [outro projeto](https://github.com/caiohscruz/api-rest-users-knex). Gravei um [vídeo](https://youtu.be/B-Qqsbi8a0o) mostrando brevemente a aplicação e falando sobre seu desenvolvimento.
+- [formacao-node-chat-socket.io](https://github.com/caiohscruz/formacao-node-chat-socket.io)
+**[NodeJS|JavaScript|Express|EJS|socket.io]**
+A proposta deste projeto foi a concepção de um protótipo de chat com socket.io. Gravei um [vídeo](https://youtu.be/hhbYu4dN41c) mostrando o projeto, mas a qualidade do áudio está horrível, peço desculpas por isso.
+
+
 
 ## AJAX/PHP
 
