@@ -37,6 +37,9 @@ Trata-se de uma aplicação em VueJS para gerenciamento de usuários que consome
 - [formacao-node-chat-socket.io](https://github.com/caiohscruz/formacao-node-chat-socket.io)
 **[NodeJS|JavaScript|Express|EJS|socket.io]**
 A proposta deste projeto foi a concepção de um protótipo de chat com socket.io. Gravei um [vídeo](https://youtu.be/hhbYu4dN41c) mostrando o projeto, mas a qualidade do áudio está horrível, peço desculpas por isso.
+- [formacao-node-agendamentos](https://github.com/caiohscruz/formacao-node-agendamentos)
+**[NodeJS|JavaScript|Express|EJS|Mongoose|Nodemailer|FullCalendar]**
+A proposta deste projeto foi a concepção sistema de agendamentos. Gravei dois vídeos mostrando o projeto([video1](https://youtu.be/69SXIJVkx2A) e [video2](https://youtu.be/yQ1NLAjWMz4)).
 
 
 
