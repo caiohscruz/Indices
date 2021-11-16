@@ -8,3 +8,11 @@ Irei organizar aqui um índice para os rascunhos dos meus estudos recentes, dos 
 - [Aprendendo JDBC](https://github.com/caiohscruz/Aprendendo-JDBC) **[ Java | JDBC ]**
 - [Spring-boot](https://github.com/caiohscruz/Aprendendo-Spring-Boot) **[ Java | SpringBoot ]**
 
+## NodeJS
+
+- [QueryBuilder](https://github.com/caiohscruz/intro-knex-formacao_node) **[knex]**
+- [Upload de Arquivos](https://github.com/caiohscruz/formacao-node-upload) **[multer]**
+
+## VueJS
+- [intro Gama](https://github.com/caiohscruz/intro-vue-gama)
+- [intro Formação NodeJS](https://github.com/caiohscruz/intro-vue-formacao_node)
